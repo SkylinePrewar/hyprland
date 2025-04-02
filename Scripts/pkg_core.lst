@@ -34,7 +34,7 @@ cliphist                                               # clipboard manager
 hyprsunset                                             # blue light filter
 
 # --------------------------------------------------- // Dependencies
-polkit-kde-agent                                       # authentication agent
+hyprpolkitagent                                        # authentication agent
 xdg-desktop-portal-hyprland                            # xdg desktop portal for hyprland
 pacman-contrib                                         # for system update check
 parallel                                               # for parallel processing
