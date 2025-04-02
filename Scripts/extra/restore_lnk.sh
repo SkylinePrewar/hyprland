@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #|---/ /+---------------------------------+---/ /|#
 #|--/ /-| Script to fix slinks in .config |--/ /-|#
-#|-/ /--| Prasanth Rangan                 |-/ /--|#
+#|-/ /--| Skyline                |-/ /--|#
 #|/ /---+---------------------------------+/ /---|#
 
 export scrDir=$(dirname "$(realpath "$0")")
