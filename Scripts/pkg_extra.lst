@@ -2,6 +2,7 @@
 timeshift 
 grub-btrfs
 timeshift-autosnap
+libva-nvidia-driver
 clonezilla
 signal-desktop
 keepassxc
