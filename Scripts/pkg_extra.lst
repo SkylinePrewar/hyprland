@@ -9,10 +9,14 @@ octopi
 protontricks
 wine
 winetricks
-
+wine-cachyos-opt
+torbrowser-launcher
+goverlay
+heroic-games-launcher-bin
 # --------------------------------------------------- // Misc
 xdg-desktop-portal-gtk                                 # xdg desktop portal using gtk
 emote                                                # emoji picker gtk3
+kdeconnect
 
 # --------------------------------------------------- // Gaming
 steam                                                  # gaming platform
