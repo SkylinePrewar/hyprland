@@ -13,6 +13,7 @@ wine-cachyos-opt
 torbrowser-launcher
 goverlay
 heroic-games-launcher-bin
+
 # --------------------------------------------------- // Misc
 xdg-desktop-portal-gtk                                 # xdg desktop portal using gtk
 emote                                                # emoji picker gtk3
@@ -27,8 +28,8 @@ gamescope                                            # micro-compositor for gami
 lutris                                               # Lutris is an open source gaming platform for Linux
 bottles
 
-# --------------------------------------------------- // Music
-
+# --------------------------------------------------- // Music and Video
+vlc
 
 
 # --------------------------------------------------- // Shell
