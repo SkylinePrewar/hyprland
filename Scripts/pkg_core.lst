@@ -79,3 +79,28 @@ fastfetch                                              # system information fetc
 
 # --------------------------------------------------- // HyDE
 hypridle                                               # idle daemon
+timeshift 
+grub-btrfs
+timeshift-autosnap
+libva-nvidia-driver
+clonezilla
+signal-desktop
+keepassxc
+octopi
+protontricks
+wine
+winetricks
+wine-cachyos-opt
+torbrowser-launcher
+goverlay
+heroic-games-launcher-bin
+kdeconnect
+steam 
+proton-cachyos
+gamemode                                          
+mangohud                                             
+gamescope                                      
+lutris                                               
+bottles
+emote
+vlc
