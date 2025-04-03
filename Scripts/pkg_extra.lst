@@ -14,35 +14,16 @@ wine-cachyos-opt
 torbrowser-launcher
 goverlay
 heroic-games-launcher-bin
-
-# --------------------------------------------------- // Misc
-xdg-desktop-portal-gtk                                 # xdg desktop portal using gtk
-emote                                                # emoji picker gtk3
 kdeconnect
-
-# --------------------------------------------------- // Gaming
-steam                                                  # gaming platform
+steam 
 proton-cachyos
-gamemode                                               # daemon and library for game optimizations
-mangohud                                               # system performance overlay
-gamescope                                            # micro-compositor for gaming
-lutris                                               # Lutris is an open source gaming platform for Linux
+gamemode                                          
+mangohud                                             
+gamescope                                      
+lutris                                               
 bottles
-
-# --------------------------------------------------- // Music and Video
+emote
 vlc
 
 
-# --------------------------------------------------- // Shell
- oh-my-zsh-git|zsh                                      # Optional plugin manager for zsh
- pokemon-colorscripts-git|zsh                           # display pokemon sprites (optional)
-
-
-# --------------------------------------------------- // Backends
-electron                                              # electron backend
-
-# --------------------------------------------------- // Lockscreen
-swaylock-effects-git                                   # swaylock with effects // very minimal lockscreen
-
-# --------------------------------------------------- // OSD
-swayosd-git                                             #A GTK based on screen display for keyboard shortcuts like caps-lock and volume
+                                      
